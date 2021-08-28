@@ -8,3 +8,4 @@ echo 'Select a build from here: https://runtime.fivem.net/artifacts/fivem/build_
 read -p "Preferred Build URL:" URL
 wget $URL
 tar xf fx.tar.xz
+rm -rf fx.tar.xz
