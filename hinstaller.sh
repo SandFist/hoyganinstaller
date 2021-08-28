@@ -3,3 +3,4 @@ cd
 mkdir FXServer
 cd FXServer
 mkdir server
+cd server
