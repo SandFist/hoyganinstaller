@@ -9,3 +9,4 @@ read -p "Preferred Build URL:" URL
 wget $URL
 tar xf fx.tar.xz
 rm -rf fx.tar.xz
+./run.sh
