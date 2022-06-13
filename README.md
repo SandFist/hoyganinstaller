@@ -4,21 +4,23 @@ I made this script to automate FiveM Server Installation and Updating in any Lin
 
 It downloads actually latest build for Linux and extracts it to "~/server/" (Home Directory).
 
-Once done, it runs the server for first init configuration.
+## Should **work out of the box** in almost **any Linux Distribution**, if not make sure you have the following requirements:
+  - **git**
+  - **tar**
+  - **wget**
+  - **curl**
+  - **grep**
 
-**·** Should **work out of the box** in almost **any Linux Distribution**, if not make sure you have the following requirements:
-  - **git**               (Only needed if you want to "git clone" instead of downloading from browser)
-  - **tar**               (May be not included in your dist)
-  - **wget**              (Same as above)
-  - **curl**              (You're not running linux, wtf)
-  - **grep**              (Are you even running any Unix-Like?)
-  - **root** privileges?  (Ask for support to any adult near)
-
-**·** Instructions:
+## Instructions:
+  - Clone or **download the repository** to your server
+```
   **git clone https://github.com/feelfreetofee/hoyganinstaller/**
-        - or just download the repository to your server
   **cd hoyganinstaller**
+```
+  - Give execute flag to the file and run it
+```
   **chmod +x hinstaller.sh**
   **./hinstaller.sh**
+```
 
-See? It's easy as getting aids in a music festival!
+See? It's easy as getting AIDs in a music festival!
