@@ -14,13 +14,13 @@ It downloads actually latest build for Linux and extracts it to "~/server/" (Hom
 ## Instructions:
   - Clone or **download the repository** to your server
 ```
-  **git clone https://github.com/feelfreetofee/hoyganinstaller/**
-  **cd hoyganinstaller**
+  git clone https://github.com/feelfreetofee/hoyganinstaller/
+  cd hoyganinstaller
 ```
   - Give execute flag to the file and run it
 ```
-  **chmod +x hinstaller.sh**
-  **./hinstaller.sh**
+  chmod +x hinstaller.sh
+  ./hinstaller.sh
 ```
 
 See? It's easy as getting AIDs in a music festival!
