@@ -4,7 +4,8 @@ I made this script to automate FiveM Server Installation and Updating in any Lin
 
 It downloads actually latest build for Linux and extracts it to "~/server/" (Home Directory).
 
-## Should **work out of the box** in almost **any Linux Distribution**, if not make sure you have the following requirements:
+Should **work out of the box** in almost **any Linux Distribution**, if not make sure you have
+## the following requirements:
   - **git**
   - **tar**
   - **wget**
@@ -23,4 +24,4 @@ It downloads actually latest build for Linux and extracts it to "~/server/" (Hom
   ./hinstaller.sh
 ```
 
-See? It's easy as getting AIDs in a music festival!
+~~See? It's easy as getting AIDs in a music festival!~~
