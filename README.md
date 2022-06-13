@@ -19,3 +19,5 @@ Once done, it runs the server for first init configuration.
   - **cd hoyganinstaller**
   - **chmod +x hinstaller.sh**
   - **./hinstaller.sh**
+
+See? It's easy as getting aids in a music festival!
