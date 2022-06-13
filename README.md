@@ -15,9 +15,10 @@ Once done, it runs the server for first init configuration.
   - **root** privileges?  (Ask for support to any adult near)
 
 **·** Instructions:
-  - **git clone https://github.com/feelfreetofee/hoyganinstaller/** or just download the repository to your server
-  - **cd hoyganinstaller**
-  - **chmod +x hinstaller.sh**
-  - **./hinstaller.sh**
+  **git clone https://github.com/feelfreetofee/hoyganinstaller/**
+        - or just download the repository to your server
+  **cd hoyganinstaller**
+  **chmod +x hinstaller.sh**
+  **./hinstaller.sh**
 
 See? It's easy as getting aids in a music festival!
